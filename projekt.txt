@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7E81-A919
+
+ Directory of C:\Users\vdi-terminal\Moj projekt
+
+07.04.2022  08:49    <DIR>          .
+07.04.2022  08:49    <DIR>          ..
+07.04.2022  08:44                73 dziennik.txt
+07.04.2022  08:49               123 projekt.txt
+               2 File(s)            196 bytes
+               2 Dir(s)  51ÿ147ÿ567ÿ104 bytes free
